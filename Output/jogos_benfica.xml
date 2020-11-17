@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Jogos>
+<Jogo><data>2020-09-18T18:00:00Z</data> <jornada>1</jornada> <equipa_casa>FC Famalicão</equipa_casa> <equipa_fora>Sport Lisboa e Benfica</equipa_fora> <golos_casa>1</golos_casa> <golos_fora>5</golos_fora> <equipa_vencedora>Sport Lisboa e Benfica</equipa_vencedora> <estado>Terminado</estado></Jogo>
+<Jogo><data>2020-09-26T17:30:00Z</data> <jornada>2</jornada> <equipa_casa>Sport Lisboa e Benfica</equipa_casa> <equipa_fora>Moreirense FC</equipa_fora> <golos_casa>2</golos_casa> <golos_fora>0</golos_fora> <equipa_vencedora>Sport Lisboa e Benfica</equipa_vencedora> <estado>Terminado</estado></Jogo>
+<Jogo><data>2020-10-04T17:30:00Z</data> <jornada>3</jornada> <equipa_casa>Sport Lisboa e Benfica</equipa_casa> <equipa_fora>SC Farense</equipa_fora> <golos_casa>3</golos_casa> <golos_fora>2</golos_fora> <equipa_vencedora>Sport Lisboa e Benfica</equipa_vencedora> <estado>Terminado</estado></Jogo>
+<Jogo><data>2020-10-18T19:00:00Z</data> <jornada>4</jornada> <equipa_casa>Rio Ave FC</equipa_casa> <equipa_fora>Sport Lisboa e Benfica</equipa_fora> <golos_casa>0</golos_casa> <golos_fora>3</golos_fora> <equipa_vencedora>Sport Lisboa e Benfica</equipa_vencedora> <estado>Terminado</estado></Jogo>
+<Jogo><data>2020-10-26T20:15:00Z</data> <jornada>5</jornada> <equipa_casa>Sport Lisboa e Benfica</equipa_casa> <equipa_fora>Os Belenenses Futebol</equipa_fora> <golos_casa>2</golos_casa> <golos_fora>0</golos_fora> <equipa_vencedora>Sport Lisboa e Benfica</equipa_vencedora> <estado>Terminado</estado></Jogo>
+<Jogo><data>2020-11-02T21:00:00Z</data> <jornada>6</jornada> <equipa_casa>Boavista FC</equipa_casa> <equipa_fora>Sport Lisboa e Benfica</equipa_fora> <golos_casa>3</golos_casa> <golos_fora>0</golos_fora> <equipa_vencedora>Boavista FC</equipa_vencedora> <estado>Terminado</estado></Jogo>
+<Jogo><data>2020-11-08T20:00:00Z</data> <jornada>7</jornada> <equipa_casa>Sport Lisboa e Benfica</equipa_casa> <equipa_fora>Sporting Clube de Braga</equipa_fora> <golos_casa>2</golos_casa> <golos_fora>3</golos_fora> <equipa_vencedora>Sporting Clube de Braga</equipa_vencedora> <estado>Terminado</estado></Jogo>
+</Jogos>
